@@ -80,3 +80,21 @@ h2 {
     height: 12%;
     text-align: center;
   }
+  .cont {
+    display: flex;
+    justify-content: center;
+    /* height:55px; */
+  }
+  h1 {
+    margin-top: 8%;
+    font-family: "Comfortaa", cursive;
+    font-size: 58px;
+    letter-spacing: -1px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style:normal;
+    font-variant: normal;
+    /* text-transform: uppercase; */
+  }
