@@ -48,3 +48,14 @@ h2 {
     width: 55px;
     height: 55px;
   }
+  .rect {
+    padding-bottom: 200px;
+    padding-left: 3%;
+    width: 45%;
+    height: 1050px;
+    float: right;
+    margin-top: 2%;
+    background-color: #c7f2ab;
+    border-radius: 40px;
+    margin-right: 10%;
+  }
