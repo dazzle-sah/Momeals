@@ -103,3 +103,12 @@ h2 {
     margin-right: 0.5%;
     /* float: left; */
   }
+  button {
+    width: 93%;
+    height: 70px;
+    font-size: 30px;
+    border-radius: 40px;
+    background-color: #1b5240;
+    color: white;
+    margin-top: 2%;
+  }
