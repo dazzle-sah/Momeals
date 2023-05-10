@@ -43,3 +43,8 @@ h2 {
    text-transform: capitalize;
    margin-left: 40px;
  }
+ .social {
+    margin-left: 40px;
+    width: 55px;
+    height: 55px;
+  }
