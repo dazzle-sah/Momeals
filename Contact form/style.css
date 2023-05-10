@@ -215,3 +215,22 @@ h4 {
   .headdd{
      color: #2EB167;
   }
+  .inn{
+    width: 80%;
+    height: 40px;
+    font-size: 25px;
+    padding-left: 2%;
+    margin-top: 1%;
+    border: none;
+    border-bottom: 2px solid white;
+   background-color: #2d2727;
+   color: white;
+ }
+ h3{
+    padding-top: 0.75%;
+     font-size: 28px;
+  }
+  .im{
+    margin-left: 4%;
+    margin-top: 2%;
+  }
