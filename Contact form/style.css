@@ -197,3 +197,21 @@ h4 {
    padding-top: 1%;
    margin-top: 1%;
  }
+ .but {
+    width: 72%;
+    margin-left: 12%;
+    height: 70px;
+    font-size: 30px;
+    border-radius: 40px;
+    background-color: #c7f2ab;
+    color: black;
+  }
+  .pg1 {
+    height: 1024px;
+  }
+  button:hover {
+    opacity: 0.5;
+  }
+  .headdd{
+     color: #2EB167;
+  }
