@@ -1,4 +1,12 @@
 *{
     margin: 0px;
   }
-  
+nav {
+  background-color: black;
+  color: white;
+  height: 70px;
+  display: flex;
+  justify-content:left;
+  width: auto;
+  padding-left: 2%;
+}
